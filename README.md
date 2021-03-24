@@ -6,7 +6,7 @@ Update this README to include your team name and team members. Don't forget to r
 
 ##### Exercise ONE
 * 1
-     - String (letter = '')
+     - String (letter = "")
     - List (dupeBoard = [])
      - Boolean (gameIsPlaying = True)
  
